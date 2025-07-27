@@ -103,6 +103,44 @@ A CNN model (ResNet50) for diagnostic classification, using Grad-CAM to improve 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 </td>
+<!-- Row 3 -->
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">Customer Segmentation</h3>
+<br />
+<a href="https://github.com/upadhyay-jash/customer-segmentation" target="_blank">
+<img src="https://placehold.co/400x250/f59e0b/ffffff?text=Customer+Segmentation" alt="Customer Segmentation Project Thumbnail">
+</a>
+<br />
+<p align="center">
+Applied PCA and K-Means to cluster retail customer behavior, enabling actionable insights for targeted marketing and user retention campaigns.
+<br /><br />
+<a href="https://github.com/upadhyay-jash/customer-segmentation" target="_blank"><strong>View Repository &raquo;</strong></a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">Credit Card Fraud Detection</h3>
+<br />
+<a href="https://github.com/upadhyay-jash/fraud-detection" target="_blank">
+<img src="https://placehold.co/400x250/ef4444/ffffff?text=Fraud+Detection" alt="Credit Card Fraud Detection Project Thumbnail">
+</a>
+<br />
+<p align="center">
+Achieved 95%+ precision on highly imbalanced datasets by implementing SMOTE, feature scaling, and ROC-AUC tuning for fraud detection.
+<br /><br />
+<a href="https://github.com/upadhyay-jash/fraud-detection" target="_blank"><strong>View Repository &raquo;</strong></a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+</p>
+</td>
 </tr>
 </table>
 
