@@ -143,9 +143,3 @@ Achieved 95%+ precision on highly imbalanced datasets by implementing SMOTE, fea
 </td>
 </tr>
 </table>
-
-📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=upadhyay-jash&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jash's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upadhyay-jash&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
