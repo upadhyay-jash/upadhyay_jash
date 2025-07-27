@@ -115,7 +115,7 @@ A CNN model (ResNet50) for diagnostic classification, using Grad-CAM to improve 
 <p align="center">
 Applied PCA and K-Means to cluster retail customer behavior, enabling actionable insights for targeted marketing and user retention campaigns.
 <br /><br />
-<a href="https://github.com/upadhyay-jash/customer-segmentation" target="_blank"><strong>View Repository &raquo;</strong></a>
+<a href="https://github.com/upadhyay-jash/customer-segmentation-in-retail" target="_blank"><strong>View Repository &raquo;</strong></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
@@ -133,7 +133,7 @@ Applied PCA and K-Means to cluster retail customer behavior, enabling actionable
 <p align="center">
 Achieved 95%+ precision on highly imbalanced datasets by implementing SMOTE, feature scaling, and ROC-AUC tuning for fraud detection.
 <br /><br />
-<a href="https://github.com/upadhyay-jash/fraud-detection" target="_blank"><strong>View Repository &raquo;</strong></a>
+<a href="https://github.com/upadhyay-jash/credit-card-fraud-detection" target="_blank"><strong>View Repository &raquo;</strong></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
