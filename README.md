@@ -26,43 +26,85 @@ A results-driven AI and Machine Learning Engineer who combines robust technical 
 </p>
 
 🚀 My Featured Projects
-Here are some of the key projects I've worked on. Each one has a detailed README in its repository.
-
-Project Name
-
-Description
-
-Tech Stack
-
-Laxmi AI - Finance Agent
-
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">Laxmi AI - Finance Agent</h3>
+<br />
+<a href="https://github.com/upadhyay-jash/laxmi-ai" target="_blank">
+<img src="https://placehold.co/400x250/1f2937/ffffff?text=Laxmi+AI" alt="Laxmi AI Project Thumbnail">
+</a>
+<br />
+<p align="center">
 An intelligent web-based AI agent that generates personalized financial plans by analyzing user factors like savings, age, goals, and risk appetite.
-
-React.js, FastAPI, Azure OpenAI, Firebase
-
-Vidya AI - Study Agent
-
+<br /><br />
+<a href="https://github.com/upadhyay-jash/laxmi-ai" target="_blank"><strong>View Repository &raquo;</strong></a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">Vidya AI - Study Agent</h3>
+<br />
+<a href="https://github.com/upadhyay-jash/vidya-ai" target="_blank">
+<img src="https://placehold.co/400x250/3b82f6/ffffff?text=Vidya+AI" alt="Vidya AI Project Thumbnail">
+</a>
+<br />
+<p align="center">
 A robust 4-layer prompting architecture that adapts to syllabus, difficulty, and subject context to deliver relevant study support for students.
-
-Azure OpenAI, LangChain, Python
-
-Resume Ranker & MCQ Generator
-
-An interactive hybrid app built with LangChain and Streamlit to evaluate resumes and auto-generate multiple-choice questions.
-
-LangChain, Streamlit, Azure OpenAI
-
-Breast Cancer Detection
-
-A CNN model (ResNet50) for diagnostic classification of breast cancer, using Grad-CAM to improve transparency and diagnosis reliability.
-
-ResNet50, Grad-CAM, Flask, React
-
-Credit Card Fraud Detection
-
-Achieved 95%+ precision on highly imbalanced datasets by implementing SMOTE, feature scaling, and ROC-AUC tuning.
-
-Logistic Regression, Scikit-learn, Pandas
+<br /><br />
+<a href="https://github.com/upadhyay-jash/vidya-ai" target="_blank"><strong>View Repository &raquo;</strong></a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">Resume Ranker & MCQ Generator</h3>
+<br />
+<a href="https://github.com/upadhyay-jash/resume-ranker" target="_blank">
+<img src="https://placehold.co/400x250/10b981/ffffff?text=Resume+Ranker" alt="Resume Ranker Project Thumbnail">
+</a>
+<br />
+<p align="center">
+An interactive hybrid app built with LangChain and Streamlit to evaluate resumes and auto-generate multiple-choice questions for screening.
+<br /><br />
+<a href="https://github.com/upadhyay-jash/resume-ranker" target="_blank"><strong>View Repository &raquo;</strong></a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">Breast Cancer Detection</h3>
+<br />
+<a href="https://github.com/upadhyay-jash/cancer-detection" target="_blank">
+<img src="https://placehold.co/400x250/ec4899/ffffff?text=Cancer+Detection" alt="Breast Cancer Detection Project Thumbnail">
+</a>
+<br />
+<p align="center">
+A CNN model (ResNet50) for diagnostic classification, using Grad-CAM to improve transparency and diagnosis reliability in medical imaging.
+<br /><br />
+<a href="https://github.com/upadhyay-jash/cancer-detection" target="_blank"><strong>View Repository &raquo;</strong></a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+</td>
+</tr>
+</table>
 
 📊 GitHub Stats
 <p align="center">
