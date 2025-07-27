@@ -95,7 +95,7 @@ An interactive hybrid app built with LangChain and Streamlit to evaluate resumes
 <p align="center">
 A CNN model (ResNet50) for diagnostic classification, using Grad-CAM to improve transparency and diagnosis reliability in medical imaging.
 <br /><br />
-<a href="https://github.com/upadhyay-jash/cancer-detection" target="_blank"><strong>View Repository &raquo;</strong></a>
+<a href="https://github.com/upadhyay-jash/early-breast-cancer-detection" target="_blank"><strong>View Repository &raquo;</strong></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -108,7 +108,7 @@ A CNN model (ResNet50) for diagnostic classification, using Grad-CAM to improve 
 <td width="50%" valign="top">
 <h3 align="center">Customer Segmentation</h3>
 <br />
-<a href="https://github.com/upadhyay-jash/customer-segmentation" target="_blank">
+<a href="https://github.com/upadhyay-jash/customer-segmentation-in-retail" target="_blank">
 <img src="https://placehold.co/400x250/f59e0b/ffffff?text=Customer+Segmentation" alt="Customer Segmentation Project Thumbnail">
 </a>
 <br />
@@ -126,7 +126,7 @@ Applied PCA and K-Means to cluster retail customer behavior, enabling actionable
 <td width="50%" valign="top">
 <h3 align="center">Credit Card Fraud Detection</h3>
 <br />
-<a href="https://github.com/upadhyay-jash/fraud-detection" target="_blank">
+<a href="https://github.com/upadhyay-jash/credit-card-fraud-detection" target="_blank">
 <img src="https://placehold.co/400x250/ef4444/ffffff?text=Fraud+Detection" alt="Credit Card Fraud Detection Project Thumbnail">
 </a>
 <br />
