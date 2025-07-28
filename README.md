@@ -162,8 +162,6 @@ An interactive web application that calculates the fastest route between two sta
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3 align="center">User Behaviour Detection</h3>
 <br />
