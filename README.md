@@ -141,7 +141,9 @@ Achieved 95%+ precision on highly imbalanced datasets by implementing SMOTE, fea
 <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 </p>
 </td>
-  <td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 <h3 align="center">Metro Route Planner</h3>
 <br />
 <a href="https://github.com/upadhyay-jash/laxmi-ai" target="_blank">
@@ -159,5 +161,6 @@ An interactive web application that calculates the fastest route between two sta
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
+</td>
 </tr>
 </table>
