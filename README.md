@@ -141,5 +141,23 @@ Achieved 95%+ precision on highly imbalanced datasets by implementing SMOTE, fea
 <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 </p>
 </td>
+  <td width="50%" valign="top">
+<h3 align="center">Metro Route Planner</h3>
+<br />
+<a href="https://github.com/upadhyay-jash/laxmi-ai" target="_blank">
+<img src="https://placehold.co/400x250/1f2937/ffffff?text=Laxmi+AI" alt="Laxmi AI Project Thumbnail">
+</a>
+<br />
+<p align="center">
+An interactive web application that calculates the fastest route between two stations in a metro network, built from the ground up using core data structures and Dijkstra's shortest path algorithm.
+<br /><br />
+<a href="https://github.com/upadhyay-jash/metro-planner" target="_blank"><strong>View Repository &raquo;</strong></a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
 </tr>
 </table>
