@@ -146,8 +146,8 @@ Achieved 95%+ precision on highly imbalanced datasets by implementing SMOTE, fea
 <td width="50%" valign="top">
 <h3 align="center">Metro Route Planner</h3>
 <br />
-<a href="https://github.com/upadhyay-jash/laxmi-ai" target="_blank">
-<img src="https://placehold.co/400x250/1f2937/ffffff?text=Laxmi+AI" alt="Laxmi AI Project Thumbnail">
+<a href="https://github.com/upadhyay-jash/metro-planner" target="_blank">
+<img src="https://placehold.co/400x250/1f2937/ffffff?text=Metro+Planner" alt="Metro Planner Project Thumbnail">
 </a>
 <br />
 <p align="center">
