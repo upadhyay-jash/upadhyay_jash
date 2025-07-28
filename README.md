@@ -163,4 +163,24 @@ An interactive web application that calculates the fastest route between two sta
 </p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">User Behaviour Detection</h3>
+<br />
+<a href="https://github.com/upadhyay-jash/user-behaviour-detection" target="_blank">
+<img src="https://placehold.co/400x250/1f2937/ffffff?text=Behaviour+Detectionr" alt="user-behaviour-detection Project Thumbnail">
+</a>
+<br />
+<p align="center">
+The primary objective is to build and evaluate a machine learning model that accurately predicts user behavior (active/inactive) from a real-world dataset. The project covers an end-to-end ML workflow, including data preprocessing, handling class imbalance, model training, and performance evaluation.
+<a href="https://github.com/upadhyay-jash/user-behaviour-detection" target="_blank"><strong>View Repository &raquo;</strong></a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+</td>
+</tr>
 </table>
