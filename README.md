@@ -11,7 +11,7 @@
 A results-driven AI and Machine Learning Engineer who combines robust technical expertise with business and marketing acumen. I specialize in designing, building, and deploying complex AI systems, deep learning models, and agentic workflows using Python, TensorFlow, and Azure.
 
 🔧 Technologies & Tools
-<p align="left">
+<p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> </a>
 <a href="https://azure.microsoft.com" target="_blank"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/> </a>
